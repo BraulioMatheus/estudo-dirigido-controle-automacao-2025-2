@@ -1,54 +1,54 @@
 # INSTITUTO FEDERAL DE CIÊNCIAS E TECNOLOGIA DA PARAÍBA
 
-**CURSO:** ENGENHARIA DE CONTROLE E AUTOMAÇÃO  
-**DISCIPLINA:** CONTROLE E AUTOMAÇÃO  
-**ALUNO:** [SEU NOME]  
-**PROFESSOR:** MOACY PEREIRA DA SILVA  
-**PROJETO:** ESTUDO DIRIGIDO - INDÚSTRIA 4.0  
+**CURSO:** Engenharia de Computação  
+**DISCIPLINA:** Controle e Automação  
+**ALUNO:** Bráulio Matheus Brito Barbosa  
+**PROFESSOR:** Moacy Pereira da Silva  
+**PROJETO:** Estudo Dirigido da Disciplina  
 
 ---
 
-## OBJETIVO
+## 🎯 OBJETIVO
 
-Realizar estudo dirigido do livro "Sistemas de Controle Moderno" (Dorf & Bishop) com aplicações em Indústria 4.0, integrando conceitos teóricos com simulações computacionais e tecnologias modernas da indústria.
-
----
-
-## MENU DO ESTUDO DIRIGIDO
-
-| **Capítulo 4:** Características de Sistemas com Realimentação | **Capítulo 5:** Desempenho de Sistemas de Controle |
-|---------------------------------------------------------------|-----------------------------------------------------|
-| [Notebook](Capitulo-4/notebook_capitulo4.ipynb) • [Videos](Capitulo-4/videos.md) • [Simulações](Capitulo-4/simulacoes/) | [Notebook](Capitulo-5/notebook_capitulo5.ipynb) • [Videos](Capitulo-5/videos.md) • [Simulações](Capitulo-5/simulacoes/) |
-
-| **Capítulo 6:** Estabilidade de Sistemas Lineares | **Capítulo 7:** Método do Lugar das Raízes |
-|---------------------------------------------------|---------------------------------------------|
-| [Notebook](Capitulo-6/notebook_capitulo6.ipynb) • [Videos](Capitulo-6/videos.md) • [Simulações](Capitulo-6/simulacoes/) | [Notebook](Capitulo-7/notebook_capitulo7.ipynb) • [Videos](Capitulo-7/videos.md) • [Simulações](Capitulo-7/simulacoes/) |
-
-| **Capítulo 10:** Projeto de Sistemas de Controle | **Capítulo 13:** Sistemas de Controle Digital |
-|--------------------------------------------------|------------------------------------------------|
-| [Notebook](Capitulo-10/notebook_capitulo10.ipynb) • [Videos](Capitulo-10/videos.md) • [Simulações](Capitulo-10/simulacoes/) | [Notebook](Capitulo-13/notebook_capitulo13.ipynb) • [Videos](Capitulo-13/videos.md) • [Simulações](Capitulo-13/simulacoes/) |
+Consolidar os conceitos fundamentais de **Controle e Automação** através de **resumos teóricos**, **simulações computacionais** e **estudos aplicados**, com foco na **Indústria 4.0** (MES, PIMS, APC, RTO, IIoT e Digital Twin).  
 
 ---
 
-## TECNOLOGIAS INDÚSTRIA 4.0
+## 📚 CONTEÚDO PROGRAMÁTICO
 
-| **APC - Advanced Process Control** | **MES/PIMS - Manufacturing Systems** |
-|-------------------------------------|---------------------------------------|
-| [Conceitos](industria-4.0/apc.md) • [Videos](industria-4.0/apc.md#vídeos) • [Simulações](industria-4.0/apc.md#simulações) | [Conceitos](industria-4.0/mes-pims.md) • [Videos](industria-4.0/mes-pims.md#vídeos) • [Simulações](industria-4.0/mes-pims.md#simulações) |
+Capítulos selecionados do livro *Sistemas de Controle Moderno* — **Dorf & Bishop**  
 
-| **IIoT - Industrial IoT** | **Digital Twin** |
-|----------------------------|------------------|
-| [Conceitos](industria-4.0/iiot.md) • [Videos](industria-4.0/iiot.md#vídeos) • [Simulações](industria-4.0/iiot.md#simulações) | [Conceitos](industria-4.0/digital-twin.md) • [Videos](industria-4.0/digital-twin.md#vídeos) • [Simulações](industria-4.0/digital-twin.md#simulações) |
-
----
-
-## FERRAMENTAS
-
-- **Python + Control Library**
-- **Google Colab**
-- **MATLAB/Simulink**
-- **GitHub**
+| Parte | Conteúdo | Links |
+|:------|:----------|:------|
+| **Parte 1:** Capítulo 4 — Características de Sistemas de Controle com Realimentação | [Notebook/Colab](#) • [Vídeos](#) • [Simulações da Web](#) |
+| **Parte 2:** Capítulo 5 — O Desempenho de Sistemas de Controle com Realimentação | [Notebook/Colab](#) • [Vídeos](#) • [Simulações da Web](#) |
+| **Parte 3:** Capítulo 6 — A Estabilidade de Sistemas Lineares com Realimentação | [Notebook/Colab](#) • [Vídeos](#) • [Simulações da Web](#) |
+| **Parte 4:** Capítulo 7 — O Método do Lugar das Raízes | [Notebook/Colab](#) • [Vídeos](#) • [Simulações da Web](#) |
+| **Parte 5:** Capítulo 10 — O Projeto de Sistemas de Controle com Realimentação | [Notebook/Colab](#) • [Vídeos](#) • [Simulações da Web](#) |
+| **Parte 6:** Capítulo 13 — Sistemas de Controle Digital | [Notebook/Colab](#) • [Vídeos](#) • [Simulações da Web](#) |
 
 ---
 
-**Desenvolvido como parte do estudo dirigido da disciplina de Controle e Automação - 2025.2**
+## ⚙️ COMPLEMENTOS INDÚSTRIA 4.0
+
+Cada capítulo deve conter conexões com aplicações industriais reais:
+
+- **Controle Clássico → APC:** compensadores, MPC e otimização em tempo real  
+- **Estabilidade → Confiabilidade:** impacto em DCS e SIS  
+- **LGR e Bode → Arquitetura:** integração com Siemens, Rockwell, AVEVA, AspenTech  
+- **Controle Digital → TI/TO:** uso de PLCs, SCADA, MES/PIMS, IIoT e Cloud  
+
+---
+
+## 🧰 FERRAMENTAS RECOMENDADAS
+
+- **Ambiente de simulação:** Google Colab, Python-Control, MATLAB/Simulink  
+- **Softwares Industriais:** Siemens TIA Portal, AVEVA PI System, Aspen DMC3  
+- **Simuladores:** Factory I/O, CODESYS  
+
+---
+
+## 🗂️ ORGANIZAÇÃO DAS ENTREGAS
+
+**Estrutura sugerida do repositório GitHub:**
+
