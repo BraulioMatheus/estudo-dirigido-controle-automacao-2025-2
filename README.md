@@ -26,7 +26,7 @@ O estudo é baseado no livro **“Sistemas de Controle Moderno” (Dorf & Bishop
 | **Parte 4** | Método do Lugar das Raízes | [Notebook/Colab](#) · [Vídeos](#) · [Simulações](#) |
 | **Parte 5** | Projeto de Sistemas de Controle com Realimentação | [Notebook/Colab](#) · [Vídeos](#) · [Simulações](#) |
 | **Parte 6** | Sistemas de Controle Digital | [Notebook/Colab](#) · [Vídeos](#) · [Simulações](#) |
-| **Parte 7** | Complementos Indústria 4.0 – APC, RTO, MES, PIMS, IIoT, Digital Twin | [Notebook/Colab](#) · [Vídeos](#) · [Simulações](#) |
+| **Parte 7** | Complementos Indústria 4.0 – APC, RTO, MES, PIMS, IIoT, Digital Twin | [Notebook/Colab](https://colab.research.google.com/drive/1lMB97YPsik21pAztFIVeNl8n8fTnmSCQ?usp=drive_link) · [Vídeos](#) · [Simulações](#) |
 
 
 ---
