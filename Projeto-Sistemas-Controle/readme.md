@@ -7,7 +7,7 @@ Este repositório contém materiais, simulações e resumos referentes ao estudo
 ## 🎥 Vídeo Explicativo (YouTube)
 Adicione aqui o link do vídeo relacionado ao projeto:
 
-➡️ **YouTube:** [Clique aqui para assistir](https://www.youtube.com/watch?v=o-ntCQyEcEU&list=PLfN7xQ-9PKlgPWOWqaws1CbYQ6Ht3VFzR)
+➡️ **YouTube:** [Clique aqui para assistir](https://www.youtube.com/watch?v=Of5abNkUU4Y)
 
 ---
 
