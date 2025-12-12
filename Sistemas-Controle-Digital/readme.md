@@ -14,6 +14,6 @@ Adicione aqui o link do vídeo relacionado ao projeto:
 ## 🧪 Simulações no MATLAB Online
 Acesse o notebook ou script de simulação diretamente no MATLAB Online:
 
-➡️ **MATLAB Online:** [Abrir simulação](https://drive.mathworks.com/sharing/c5b4fdce-6c90-4988-934f-b4b6a8c34773)
+➡️ **MATLAB Online:** [Abrir simulação](https://drive.mathworks.com/sharing/5ec151f5-2ed5-4bfe-82ab-0e7f265fb6ea)
 
 ---
